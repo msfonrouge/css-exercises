@@ -1,10 +1,10 @@
 .pink {
-    background-color: pink;
+    background-color: rgb(252, 191, 201);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #one-id {
-    color: blue;
+    color: #0000FF;
     font-size: 36px;
 }
 
@@ -13,7 +13,7 @@
 }
 
 #another-id {
-    background-color: lightgreen;
+    background-color: rgb(147, 239, 147);
     font-size: 24px;
     font-weight: bold;
 }
